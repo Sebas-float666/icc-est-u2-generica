@@ -16,9 +16,9 @@
 
 ### Evidencia de ejecución
 
-![Captura de salida en consola](assets/01-captura-salida-consola.png)
+![Captura de salida en consola](./src/assets/01-captura-salida-consola.png)
 
 ### Evidencia del código implementado
 
-![Captura de implementación](assets/02-app-implementacion-code.png)
+![Captura de implementación](./src/assets/02-app-implementacion-code.png)
 
